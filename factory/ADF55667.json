@@ -1,0 +1,9 @@
+{
+	"name": "ADF55667",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d1d5449-5148-4f2d-a536-ce948a0fe3fc",
+		"tenantId": "13b69d9c-df07-4b23-8558-ebbfb6ed700f"
+	}
+}
