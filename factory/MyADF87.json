@@ -1,0 +1,9 @@
+{
+	"name": "MyADF87",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "188ee5a7-6085-4b02-ba6f-9bbf7f96c685",
+		"tenantId": "13b69d9c-df07-4b23-8558-ebbfb6ed700f"
+	}
+}
